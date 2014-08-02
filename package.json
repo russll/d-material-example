@@ -1,6 +1,6 @@
 {
   "name": "d-material-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "example project for d-material",
   "main": "server.js",
   "scripts": {
