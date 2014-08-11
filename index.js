@@ -2,6 +2,7 @@ var app = module.exports = require('derby').createApp('d-material', __filename);
 
 app.serverUse(module, 'derby-stylus');
 app.use(require('d-material'));
+
 app.loadViews(__dirname);
 
 // Маршрут рендерится на клиене и на сервере
