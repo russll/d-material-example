@@ -1,6 +1,6 @@
 {
   "name": "d-material-example",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "example project for d-material",
   "main": "server.js",
   "scripts": {
@@ -28,8 +28,8 @@
   "homepage": "https://github.com/onerussell/d-material-example",
   "dependencies": {
     "derby-starter": "^0.2.1",
-    "derby": "^0.6.0-alpha23",
-    "d-material": "^0.0.6",
+    "derby": "^0.6.x",
+    "d-material": "^0.0.x",
     "derby-stylus": "^0.1.0"
   }
 }
