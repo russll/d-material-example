@@ -1,6 +1,6 @@
 {
   "name": "d-material-example",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "example project for d-material",
   "main": "server.js",
   "scripts": {
@@ -14,7 +14,16 @@
     "derby",
     "derbyjs",
     "example",
-    "component"
+    "component",
+    "material",
+    "design",
+    "material design",
+    "android l",
+    "ripple",
+    "wave",
+    "shadow",
+    "ui",
+    "effects"
   ],
   "author": {
     "name": "Alexeev Ruslan",
@@ -29,7 +38,7 @@
   "dependencies": {
     "derby-starter": "^0.2.1",
     "derby": "^0.6.x",
-    "d-material": "^0.0.x",
+    "d-material": "^0.0.11",
     "derby-stylus": "^0.1.0"
   }
 }
